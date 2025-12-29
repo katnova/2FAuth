@@ -39,7 +39,7 @@
         "vue-pull-refresh": "^0.2.7",
         "vue-qrcode-reader": "^2.3.14",
         "vue-router": "^3.6.5",
-        "vue2-storage": "^5.0.0",
+        "vue2-storage": "^5.1.0",
         "vuedraggable": "^2.24.3"
     }
 }
